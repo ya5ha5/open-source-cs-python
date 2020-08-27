@@ -76,3 +76,4 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none
+[The Missing Semester](https://missing.csail.mit.edu/) | MIT | 11 weeks | 1 hours/week | once a month | none
